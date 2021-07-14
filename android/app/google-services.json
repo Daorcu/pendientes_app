@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524073706461",
+    "project_id": "pendientesapp-d1e73",
+    "storage_bucket": "pendientesapp-d1e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524073706461:android:8fb6b62fbb6ec6ae964c34",
+        "android_client_info": {
+          "package_name": "com.example.pendientes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524073706461-e9l7a07n32p8ll6ldrt5upjdubvrkgi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCgoyi-OnMBMwUqKRbiaYFm3oM4lfvZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524073706461-e9l7a07n32p8ll6ldrt5upjdubvrkgi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
